@@ -24,19 +24,4 @@ Welcome to my GitHub profile! I'm passionate about Data Engineering, open-source
 - LinkedIn: (https://www.linkedin.com/in/somnath-banerjee-31b999261/)
 - Email: Somnathbanerjeedwbi@gmail.com
 
----
 
-_Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration._
-
-```
-
----
-
-To make your README truly outstanding and personal, could you please share:
-- **Your current profession or title**
-- **Top technical skills (languages, frameworks, tools)**
-- **Favorite or most impactful projects (with repo links, if any)**
-- **Any awards, certifications, or achievements**
-- **Social links (LinkedIn, Twitter, personal website, etc.)**
-
-Let me know these details, and I’ll refine your README further!
