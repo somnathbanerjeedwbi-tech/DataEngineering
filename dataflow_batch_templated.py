@@ -4,6 +4,7 @@
 """An Apache Beam batch pipeline.
 It reads JSON encoded messages from GCS file, transforms the message data and
 writes the results to BigQuery.
+Author:- Somnath Banerjee
 """
 
 import argparse
@@ -244,6 +245,7 @@ def run(argv=None):
 if __name__ == '__main__':
     logging.getLogger().setLevel(logging.INFO)   
     run()
+
 
 
 
