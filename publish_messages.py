@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#Author:- Somnath Banerjee
 
 import time#,os,json
 import argparse
@@ -64,4 +64,5 @@ if __name__ == '__main__':
     publisher = pubsub_v1.PublisherClient(credentials=credentials)
     topic_path = publisher.topic_path(project_id, topic_id)
     futures = dict()
+
     publish(config.get('gcp','file_path'))
