@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 This is the dag which will be deployed on cloud composer for running batch jobs
+Author:- Somnath Banerjee
 """
 
 from airflow import DAG
@@ -57,4 +58,5 @@ start >> job
         python_callable=upload_pipeline_def)
 
     start >> t1
+
     """
