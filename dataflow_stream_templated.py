@@ -3,6 +3,7 @@
 """An Apache Beam streaming pipeline.
 It reads JSON encoded messages from Pub/Sub, transforms the message data and
 writes the results to BigQuery.
+Author:- Somnath Banerjee
 """
 
 import argparse
@@ -120,4 +121,5 @@ if __name__ == '__main__':
     logging.getLogger().setLevel(logging.INFO)
     #known_args, pipeline_args = parser.parse_known_args()
     run()
+
 
