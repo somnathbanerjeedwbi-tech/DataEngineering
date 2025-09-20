@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about Data Engineering, open-source
 - [DataEngineering](https://github.com/somnathbanerjeedwbi-tech/DataEngineering): My top repository for data engineering solutions and resources.
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: (https://www.linkedin.com/in/somnath-banerjee-31b999261/)
+- Email: Somnathbanerjeedwbi@gmail.com
 
 ---
 
